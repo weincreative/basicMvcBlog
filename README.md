@@ -11,7 +11,5 @@ Kullanılan veritabanı diyagramı :
 
 ![database](https://github.com/merveyapnaz/Mvc-Blog/blob/69bafb9e69cb28abad6e35b7d5ee81b2133ba4df/Veritaban%C4%B1/databaseDiagram.PNG)
 
- 
-Bu blog sitesi [Mustafa SAĞLAM](https://github.com/mustafasaglam) 'ın video serisinden yardım alınarak hazırlanmıştır.
 
 
